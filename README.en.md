@@ -1,6 +1,6 @@
 ## 🚀 Github Mutual Helper Alliance
 
-[All projects] (https://github.com/theajack/star-each-other/issues) | [Submit repository] (https://github.com/theajack/star-each-other/issues/new) | [中文] (https://github.com/theajack/star-each-other)
+[All projects](https://github.com/theajack/star-each-other/issues) | [Submit repository](https://github.com/theajack/star-each-other/issues/new) | [中文](https://github.com/theajack/star-each-other)
 
 Designed to help developers accumulate the initial number of stars in their warehouses
 
@@ -19,11 +19,11 @@ However, the existing QQ and WeChat group mutual assistance methods are not idea
 
 ### Proposal
 
-Under the project [new issue] (https://github.com/theajack/star-each-other/issues/new), leave the project address you want to be star!
+Under the project [new issue](https://github.com/theajack/star-each-other/issues/new), leave the project address you want to be star!
 
 Leave a message to someone's issue star after leaving a warehouse address you want to be star
 
-[All projects] (https://github.com/theajack/star-each-other/issues) | [Submit repository] (https://github.com/theajack/star-each-other/issues/new)
+[All projects](https://github.com/theajack/star-each-other/issues) | [Submit repository](https://github.com/theajack/star-each-other/issues/new)
 
 ### Contact the author
 
